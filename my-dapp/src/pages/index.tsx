@@ -59,7 +59,7 @@ export default function Home() {
             textAlign: "center",
             maxWidth: "600px"
           }}>
-            📋 Contract says: "{message}"
+            📋 Contract says: &quot;{message}&quot;
           </div>
         )}
         
